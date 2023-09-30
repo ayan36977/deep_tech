@@ -71,13 +71,13 @@
       "ad_network": "Admob",
       "unit_type": "Banner",
       "placement_id": "\/22926502423\/mix2ads_Football_Live_banner",
-      "priority": "1"
+      "priority": "0"
     },
     {
       "ad_network": "Admob",
       "unit_type": "Interstitial",
       "placement_id": "\/22926502423\/mix2ads_Football_Live_interstitial",
-      "priority": "1",
+      "priority": "0",
       "counter": "1"
     },
     {
@@ -90,7 +90,7 @@
       "ad_network": "Admob",
       "unit_type": "Appopen",
       "placement_id": "\/22926502423\/mix2ads_Football_Live_openapp",
-      "priority": "1"
+      "priority": "0"
     },
     {
       "ad_network": "AppLovin",
@@ -102,7 +102,7 @@
       "ad_network": "AppLovin",
       "unit_type": "Interstitial",
       "placement_id": "adc041276062571a",
-      "priority": "0",
+      "priority": "1",
       "counter": "1"
     },
     {
