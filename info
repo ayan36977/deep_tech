@@ -21,9 +21,64 @@
   ],
   "categories": [
     {
-      "cid": "1",
-      "category_name": "Live sports",
-      "category_image": ""
+      "cid": "91",
+      "category_name": "FIFA World Cup Qualifying",
+      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRuQH7SkMgqmyC9pIJ_we-fLfNOvubHfPnRaTHaE_7nE4IToc9PAu8w3Nu_Bp3XEe20Gs4&usqp=CAU"
+    },
+    {
+      "cid": "84",
+      "category_name": "UEFA Euro Qualifying",
+      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTwDBfDzuSMO8P6thFaNtkdvUsTItyv4Mr1ryI-SNg191fXFpibf2PoY_mpRinKxTIz3Ug&usqp=CAU"
+    },
+    {
+      "cid": "55",
+      "category_name": "International Friendly",
+      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQWVnCYld3kbv2OiaUipuLz830Ho4X0mE20fPctiuZ9bsXwhtZzm0aknt7ZZzQmr6ECRtw&usqp=CAU"
+    },
+    {
+      "cid": "290",
+      "category_name": "EPL",
+      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcRcudHymypp0pEl3E3_VIZ0oN43_Tx07kqjIA&usqp=CAU"
+    },
+    {
+      "cid": "99",
+      "category_name": "Serie A",
+      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcTfPrMVkcMbt0TLl4Vjx4AZFG4OF8r9XZ4ctw&usqp=CAU"
+    },
+    {
+      "cid": "31",
+      "category_name": "Ligue 1",
+      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcTjWyMmcC7nHmawyUdQUUD250RbkSIWH-PrfQ&usqp=CAU"
+    },
+    {
+      "cid": "33",
+      "category_name": "Bundesliga",
+      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcQRZVmEnYFTa1RXTh00cR1RFSWMYYo-jols0Q&usqp=CAU"
+    },
+    {
+      "cid": "34",
+      "category_name": "Portugal Primeira Liga",
+      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTeVT6T-PeQGmu_owBFSoi6ZIBG9UL8lJC0rQ&usqp=CAU"
+    },
+    {
+      "cid": "36",
+      "category_name": "Greek Super League",
+      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRQtDM68oM6GfqK2QejYWdLwBzxk1Xc2kjcfw&usqp=CAU"
+    },
+    {
+      "cid": "68",
+      "category_name": "Italian Serie B",
+      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQtIPDDyMAoQ_jcQJpjCNkEzKDrkWh-DzR0Jw&usqp=CAU"
+    },
+    {
+      "cid": "40",
+      "category_name": "EFL Championship",
+      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcRGpBc5CGlE7nLF4PbJkEOfG61_wbAGyDvnLQ&usqp=CAU"
+    },
+    {
+      "cid": "83",
+      "category_name": "Saudi Pro League",
+      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQYC4RSQKZbILCep5cT8hwcxUi1An5l8JIbYxbSxQQgzQ3jf5OMlQZF6AJfsjaJGiav0V4&usqp=CAU"
     }
   ],
   "adConfig": [
@@ -125,7 +180,7 @@
     },
     {
       "show_type": "other_data",
-      "live_match_show": "0",
+      "live_match_show": "1",
       "vp": "yes",
       "sc": "no"
     },
@@ -135,7 +190,7 @@
     },
     {
       "show_type": "ScoreType",
-      "is_score": "1"
+      "is_score": "0"
     },
     {
       "show_type": "InterstitialTimer",
