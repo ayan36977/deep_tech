@@ -69,6 +69,11 @@
       "cid": "83",
       "category_name": "Saudi Pro League",
       "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQYC4RSQKZbILCep5cT8hwcxUi1An5l8JIbYxbSxQQgzQ3jf5OMlQZF6AJfsjaJGiav0V4&usqp=CAU"
+    },
+    {
+      "cid": "92",
+      "category_name": "AFC Champions League",
+      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRsGmnbJn3136R5oewZjvHuu6LE0AhdbeV18hpaOvtplFJA4T-NDD8w_1w3lDrcndMTKRY&usqp=CAU"
     }
   ],
   "adConfig": [
