@@ -21,6 +21,11 @@
   ],
   "categories": [
     {
+      "cid": "42",
+      "category_name": "UEFA Champions League",
+      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcT4gxZIAaNVJBjKCg2ri0EqKT-w3y4EDFZ0lA&usqp=CAU"
+    },
+    {
       "cid": "290",
       "category_name": "EPL",
       "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcRcudHymypp0pEl3E3_VIZ0oN43_Tx07kqjIA&usqp=CAU"
@@ -59,26 +64,36 @@
       "cid": "40",
       "category_name": "EFL Championship",
       "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcRGpBc5CGlE7nLF4PbJkEOfG61_wbAGyDvnLQ&usqp=CAU"
+    },
+    {
+      "cid": "83",
+      "category_name": "Saudi Pro League",
+      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQYC4RSQKZbILCep5cT8hwcxUi1An5l8JIbYxbSxQQgzQ3jf5OMlQZF6AJfsjaJGiav0V4&usqp=CAU"
+    },
+    {
+      "cid": "92",
+      "category_name": "AFC Champions League",
+      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRsGmnbJn3136R5oewZjvHuu6LE0AhdbeV18hpaOvtplFJA4T-NDD8w_1w3lDrcndMTKRY&usqp=CAU"
     }
   ],
   "adConfig": [
     {
       "ad_network": "Admob",
       "unit_type": "Banner",
-      "placement_id": "ca-app-pub-3940256099942544\/6300978111",
+      "placement_id": "\/22926502423\/mix2ads_Football_Live_banner",
       "priority": "0"
     },
     {
       "ad_network": "Admob",
       "unit_type": "Interstitial",
-      "placement_id": "ca-app-pub-3940256099942544\/1033173712",
+      "placement_id": "\/22926502423\/mix2ads_Football_Live_interstitial",
       "priority": "0",
       "counter": "1"
     },
     {
       "ad_network": "Admob",
       "unit_type": "Native",
-      "placement_id": "ca-app-pub-3940256099942544\/2247696110",
+      "placement_id": "\/22926502423\/mix2ads_Football_Live_native",
       "priority": "0"
     },
     {
@@ -124,14 +139,14 @@
     {
       "type": "Banner",
       "title": "YOU ARE USING OLD VERSION\nWATCH ALL LIVE LEAGUES\nPlease install our new app now to watch all football match live stream free.",
-      "ad_url": "https:\/\/bit.ly\/3PeXbJZ",
+      "ad_url": "https:\/\/bit.ly\/3QlrZtj",
       "img_url": "https:\/\/i.postimg.cc\/3Nq8F3rL\/Untitled111.png",
       "show": "0"
     },
     {
       "type": "Interstitial",
       "title": "YOU ARE USING OLD VERSION\nWATCH ALL LIVE LEAGUES\nPlease install our new app now to watch all football match live stream free.",
-      "ad_url": "https:\/\/bit.ly\/3PeXbJZ",
+      "ad_url": "https:\/\/bit.ly\/3QlrZtj",
       "btn_text": "Update App",
       "show": "0"
     }
