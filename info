@@ -112,7 +112,7 @@
       "ad_network": "AppLovin",
       "unit_type": "Interstitial",
       "placement_id": "adc041276062571a",
-      "priority": "1",
+      "priority": "0",
       "counter": "1"
     },
     {
@@ -148,7 +148,7 @@
       "title": "YOU ARE USING OLD VERSION\nWATCH ALL LIVE LEAGUES\nPlease install our new app now to watch all football match live stream free.",
       "ad_url": "https:\/\/bit.ly\/3QlrZtj",
       "btn_text": "Update App",
-      "show": "0"
+      "show": "1"
     }
   ],
   "otherConfigs": [
